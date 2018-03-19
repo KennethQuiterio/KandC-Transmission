@@ -3,17 +3,17 @@
 <title>K&C Transmission</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
-<link type="text/css" rel="stylesheet" href="/Volumes/BEAR/KandC Transmission/css/main">
+<link type="text/css" rel="stylesheet" href="/Users/Kenneth/Desktop/BEAR/KandC Transmission/css/main">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 <body>
 
-<h1>K&C Transmission</h1>
+<img src="https://s9.postimg.org/tdjelhj1r/IMG_0090.jpg" id ="homeTop">
   <div class="topnav" id="myTopnav">
     <a href="#home" class="active">Home</a>
     <a href="#contact">Contact</a>
     <a href="#services">Services</a>
-    <a href="Javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+    <a href="Javascript:void(0Ó;" class="icon" onclick="myFunction()">&#9776;</a>
   </div>
 
 <h2>Welcome to K&C Transmission</h2>

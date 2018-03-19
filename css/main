@@ -3,21 +3,17 @@ body {
   background-color:lightblue;
 
 }
-h1 {
-  background-image: url("https://s9.postimg.org/tdjelhj1r/IMG_0090.jpg");
+#homeTop {
  height:280px;
  width:100%;
  margin:0;
- background-size:cover;
- background-position:center;
- font-size:50px;
 
 }
 .topnav {
   background-color: darkblue;
   overflow:hidden;
   border:6px solid black;
-  margin-top:0px;
+  margin:0px;
 }
 .topnav a {
   float:left;
